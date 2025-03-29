@@ -1,0 +1,18 @@
+body {
+    background: linear-gradient(to right, #FCE4EC, #FFF9C4, #E0F7FA); /* Light pink, light yellow, light blue */
+    margin: 0; /* Remove default body margin */
+    min-height: 100vh; /* Ensure full viewport height */
+  }
+  nav { /* Assuming your navbar element is a <nav> tag */
+    background-color: #E0BBE4; /* Light Purple */
+  }
+  
+  /* If you want to use a gradient: */
+  nav {
+    background: linear-gradient(to right, #E0BBE4, #D8BFD8); /* Light purple to lavender */
+  }
+  
+  /* Or, for a slightly different gradient: */
+  nav {
+    background: linear-gradient(to bottom, #E6C2E8, #DDA0DD); /* Light purple to medium purple */
+  }
